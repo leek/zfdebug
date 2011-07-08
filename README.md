@@ -1,10 +1,10 @@
-﻿# ZFDebug - a debug bar for Zend Framework
+# ZFDebug - A debug bar for Zend Framework
 
-ZFDebug is a plugin for the Zend Framework for PHP5 written by Joakim Nygård. It provides useful debug information displayed in a small bar at the bottom of every page. ZF Debug has been renamed from Scienta ZF Debug Bar when moving from private hosting to googlecode. The original page for Scienta ZF Debug Bar remains available
+ZFDebug is a plugin for the Zend Framework for PHP5 written by Joakim Nygård. It provides useful debug information displayed in a small bar at the bottom of every page. ZF Debug has been renamed from Scienta ZF Debug Bar when moving from private hosting to googlecode. The original page for Scienta ZF Debug Bar remains available.
 
 Time spent, memory usage and number of database queries are presented at a glance. Additionally, included files, a listing of available view variables and the complete SQL command of all queries are shown in separate panels (shown configured with 2 database adapters):
 
-The available plugins at this point are:
+## The available plugins at this point are:
 
 * Cache: Information on Zend_Cache and APC.
 * Database: Full listing of SQL queries and the time for each.
