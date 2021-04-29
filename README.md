@@ -1,4 +1,4 @@
-# ZFDebug - A debug bar for Zend Framework ![Still Maintained?](http://stillmaintained.com/leek/zfdebug.png)
+# ZFDebug - A debug bar for Zend Framework [![Maintenance](https://img.shields.io/badge/still_maintained-no-red.svg?style=flat)]()
 
 This is my fork of the ZFDebug project. I have added some extra functionality and additional support for `Zend_Application`.
 The original project is hosted [here](http://code.google.com/p/zfdebug/).
